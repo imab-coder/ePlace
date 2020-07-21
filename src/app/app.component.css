@@ -16,16 +16,14 @@ a {
 
 .form-bg {
     background-color: #373A3C;
-    padding: 10px 0;
+    padding: 5px 0;
 }
 
 .form-group {
-    margin: 10px;
+    margin: 8px;
 }
 
 .form-group input, select {
-    font-family: ""Source Sans Pro", sans-serif, Helvetica, Arial, sans-serif";
-    font-size: 16px;
     font-weight: 500;
     height: 50px;
     border: none;
@@ -34,7 +32,6 @@ a {
 
 .form-group button {
     background-color: #1BAFB4;
-    font-family: ""Source Sans Pro", sans-serif, Helvetica, Arial, sans-serif";
     font-weight: 700;
     color: white;
     border-radius: 0;
@@ -50,7 +47,6 @@ a {
 }
 
 h1 {
-    font-family: ""Source Sans Pro", sans-serif, Helvetica, Arial, sans-serif";
     font-weight: 700;
     font-size: 50px;
 }
@@ -59,7 +55,6 @@ h1 {
     background-color: #007BFF;
     border-radius: 11px;
     color: white!important;
-    font-family: ""Source Sans Pro", sans-serif, Helvetica, Arial, sans-serif";
     font-weight: 700;
 } 
 
@@ -73,16 +68,16 @@ h1 {
     padding: 10px 50px;
     margin: 0;
     border: 0;
-  }
+}
 
-  .navigation .navbar-toggler {
+.navigation .navbar-toggler {
     background: #fff;
     outline: none;
     border-radius: 0;
     padding-top: 30px;
     padding-bottom: 26px;
     float: right;
-  }
+}
 
 .navbar-bg {
     background-color: white;
@@ -90,19 +85,17 @@ h1 {
 }
 
 .active .nav-link{
-    padding: 6.8px 10px;
+    padding: 7px 10px;
     color: white!important;
     font-weight: 700;
-    font-family: ""Source Sans Pro", sans-serif, Helvetica, Arial, sans-serif";
 }
 
 .nav-link{
     color: #fff;
     font-weight: 700;
-    font-family: ""Source Sans Pro", sans-serif, Helvetica, Arial, sans-serif";
 }
 
-@media (max-width: 991.98px) {
+@media (max-width: 990px) {
     .navbar {
         background: #fff;
     }
@@ -126,7 +119,6 @@ h1 {
     font-style: italic;
 }
 .sec-cont p {
-    font-family: "Source Sans Pro", sans-serif, Helvetica, Arial, sans-serif;
     color: #3b4045;
 }
 
@@ -178,7 +170,6 @@ h1 {
     margin-bottom: 10px;
     width: 50%;
     color: #777777;
-    /* font-family: "Droid Serif", serif; */
     font-size: 18px;
     padding: 25px 25px;
 }
@@ -214,7 +205,6 @@ h1 {
     background-color: #efefef;
     margin-bottom: 10px;
     color: #777777;
-    /* font-family: "Droid Serif", serif; */
     font-size: 18px;
     padding: 25px 25px;
 }
